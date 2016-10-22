@@ -1,0 +1,6 @@
+E:\Medii de programare avansate\UbbCourse1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe.config
+E:\Medii de programare avansate\UbbCourse1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe
+E:\Medii de programare avansate\UbbCourse1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.pdb
+E:\Medii de programare avansate\UbbCourse1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.csprojResolveAssemblyReference.cache
+E:\Medii de programare avansate\UbbCourse1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.exe
+E:\Medii de programare avansate\UbbCourse1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.pdb
